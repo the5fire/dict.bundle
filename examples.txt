@@ -1,0 +1,3 @@
+dict ~message(Good Morning)
+trans ~message(Hello, world)
+please dict ~message(what's up) out loud

@@ -1,0 +1,9 @@
+{
+    "name": "dict",
+    "displayName": "英中翻译",
+    "description": "翻译你输入的单词",
+    "examples": ["dict translate", "dict who am i"],
+    "categories": ["Utilities"],
+    "creator_name": "the5fire",
+    "creator_url": "http://the5fire.com"
+}
